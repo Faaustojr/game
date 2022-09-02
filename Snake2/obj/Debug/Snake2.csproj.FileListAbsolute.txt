@@ -1,0 +1,11 @@
+D:\MyCode\Snake2\Snake2\bin\Debug\Snake2.exe.config
+D:\MyCode\Snake2\Snake2\bin\Debug\Snake2.exe
+D:\MyCode\Snake2\Snake2\bin\Debug\Snake2.pdb
+D:\MyCode\Snake2\Snake2\obj\Debug\Snake2.csproj.AssemblyReference.cache
+D:\MyCode\Snake2\Snake2\obj\Debug\Snake2.csproj.SuggestedBindingRedirects.cache
+D:\MyCode\Snake2\Snake2\obj\Debug\Snake2.Form1.resources
+D:\MyCode\Snake2\Snake2\obj\Debug\Snake2.Properties.Resources.resources
+D:\MyCode\Snake2\Snake2\obj\Debug\Snake2.csproj.GenerateResource.cache
+D:\MyCode\Snake2\Snake2\obj\Debug\Snake2.csproj.CoreCompileInputs.cache
+D:\MyCode\Snake2\Snake2\obj\Debug\Snake2.exe
+D:\MyCode\Snake2\Snake2\obj\Debug\Snake2.pdb
